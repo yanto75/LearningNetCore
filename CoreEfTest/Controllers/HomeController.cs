@@ -14,6 +14,7 @@ namespace OMD.LearnNetCore.Controllers
             _logger = logger;
         }
 
+        [Route("choice/iscolor/{isColor}")]
         public IActionResult Choice(bool isColor)
         {
             if (isColor)
