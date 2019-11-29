@@ -1,7 +1,7 @@
-﻿using CoreEfTest.Data.Models;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using OMD.LearnNetCore.Data.Models;
 
-namespace CoreEfTest.Data.Context
+namespace OMD.LearnNetCore.Data.Context
 {
     public class ApplicationDbContext : DbContext
     {

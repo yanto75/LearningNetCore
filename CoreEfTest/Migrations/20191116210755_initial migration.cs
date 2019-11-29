@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace CoreEfTest.Migrations
+namespace OMD.LearnNetCore.Migrations
 {
     public partial class initialmigration : Migration
     {

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreEfTest", "CoreEfTest\CoreEfTest.csproj", "{CD229BE1-277D-40DA-A4D5-844E40E819B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMD.LearnNetCore", "CoreEfTest\OMD.LearnNetCore.csproj", "{CD229BE1-277D-40DA-A4D5-844E40E819B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreEfTest.Tests.NUnit", "CoreEfTest.Test\CoreEfTest.Tests.NUnit.csproj", "{B2CF32B6-1803-466F-8CF4-21D82A19EB87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMD.LearnNetCore.Tests.NUnit", "CoreEfTest.Test\OMD.LearnNetCore.Tests.NUnit.csproj", "{B2CF32B6-1803-466F-8CF4-21D82A19EB87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreEFTest.Tests.XUnit", "..\CoreEFTest.XUnit\CoreEFTest.Tests.XUnit.csproj", "{518165BB-6925-4FD1-BFAF-6226EAABEE9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMD.LearnNetCore.Tests.XUnit", "..\CoreEFTest.XUnit\OMD.LearnNetCore.Tests.XUnit.csproj", "{518165BB-6925-4FD1-BFAF-6226EAABEE9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

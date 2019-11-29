@@ -1,4 +1,4 @@
-﻿namespace CoreEfTest.Data.Models
+﻿namespace OMD.LearnNetCore.Data.Models
 {
     public class OrderItem
     {

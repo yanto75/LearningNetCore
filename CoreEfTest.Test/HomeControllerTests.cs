@@ -1,12 +1,12 @@
-using CoreEfTest.Controllers;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Moq;
 using NUnit.Framework;
+using OMD.LearnNetCore.Controllers;
 
-namespace CoreEfTest.Test
+namespace OMD.LearnNetCore.Tests.NUnit
 {
-    public class Tests
+    public class HomeControllerTests
     {
         private Mock<ILogger<HomeController>> _logger;
         private HomeController _sut;

@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CoreEfTest\CoreEfTest.csproj" />
+    <ProjectReference Include="..\CoreEfTest\OMD.LearnNetCore.csproj" />
   </ItemGroup>
 
 </Project>

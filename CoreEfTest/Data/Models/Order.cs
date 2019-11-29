@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CoreEfTest.Data.Models
+namespace OMD.LearnNetCore.Data.Models
 {
     public class Order
     {

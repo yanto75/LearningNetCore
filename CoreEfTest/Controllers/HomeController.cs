@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics;
-using CoreEfTest.Data.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using OMD.LearnNetCore.Data.Models;
 
-namespace CoreEfTest.Controllers
+namespace OMD.LearnNetCore.Controllers
 {
     public class HomeController : Controller
     {
