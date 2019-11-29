@@ -5,7 +5,7 @@ namespace CoreEfTest.Data.Context
 {
     public class ApplicationDbContext : DbContext
     {
-        //Called whenever EF utilized the DbContext
+        //Called whenever EF utilized the DbContext.
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //TODO: Move connection string to config file
